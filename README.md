@@ -157,7 +157,7 @@ def tampil():
 !![2](https://user-images.githubusercontent.com/92704969/146678202-ea3bde4b-a197-4018-905f-02bda85b6dd7.png)
 
 
-- di bawah ini adalah tampilan ketika memasukan no 1, apabila kita melanjutkan y maka akan melanjutkan dan menambahkan data, sedangkan jika kita melanjutkan T maka kita akan di arahkan ke menu utama
+- di bawah ini adalah tampilan ketika memasukan no 1, apabila kita melanjutkan  maka akan melanjutkan dan menambahkan data, sedangkan jika kita tidak melanjutkan  maka kita akan di arahkan ke menu utama
 
 ![3](https://user-images.githubusercontent.com/92704969/146678203-37470dca-8c17-4231-b56e-9de0e72aa303.png))
 
